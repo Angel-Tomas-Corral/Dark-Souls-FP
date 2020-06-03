@@ -1,0 +1,73 @@
+html {
+    background: url("../imgs/g.gif")no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    text-align: center;
+}
+
+h1 {
+    font-size: 85px;
+}
+
+hr {
+    width: 90%;
+    height: 3px;
+    background-color: black;
+    border-radius: 50%;
+}
+
+.mostaza li {
+    list-style: none;
+    padding: 35px;
+    display: inline-block;
+    font-size: 30px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.mostaza li a {
+    text-decoration: none;
+    color: black;
+}
+
+.mostaza li a:hover {
+    text-decoration: none;
+    color: rgb(243, 232, 201);
+    /* background-color: rgb(206, 106, 35);
+    border-radius: 50%; */
+}
+
+div {
+    padding: 25px;
+    margin: auto;
+    background-color: rgba(0, 0, 0, 0.521);
+}
+
+p {
+    color: lightblue;
+    font-size: 25px;
+}
+
+h2 {
+    font-size: 70px;
+}
+
+img {
+    border-radius: 15px;
+}
+
+footer {
+    background: #B9BF74;
+    margin-top: 30px;
+}
+
+h2 {
+    color: white;
+    font-family: 'Amatic SC', cursive;
+    font-family: 'Bebas Neue', cursive;
+    font-family: 'Lexend Tera', sans-serif;
+    font-family: 'Lora', serif;
+    font-family: 'Shadows Into Light', cursive;
+    font-size: 70px;
+}

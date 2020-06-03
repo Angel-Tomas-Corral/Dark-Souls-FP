@@ -1,0 +1,101 @@
+html {
+    background: url("../imgs/1499456336.gif")no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+
+/* etiquetas */
+
+body {
+    text-align: center;
+}
+
+h3 {
+    color: white;
+    font: bold 15px sans-serif;
+}
+
+section {
+    background-color: rgba(0, 0, 0, 0.521);
+    margin-bottom: 15px;
+}
+
+p {
+    color: lightblue;
+    font-family: monospace;
+    font-size: 19px;
+}
+
+h1 {
+    font-size: 85px;
+}
+
+div {
+    padding: 20px;
+    margin: auto;
+}
+
+hr {
+    width: 90%;
+    height: 3px;
+    background-color: black;
+    border-radius: 50%;
+}
+
+img {
+    display: block;
+    margin: auto;
+}
+
+footer {
+    background: #B9BF74;
+}
+
+
+/* clases */
+
+.mostaza li {
+    list-style: none;
+    padding: 35px;
+    display: inline-block;
+    font-size: 30px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.mostaza li a {
+    text-decoration: none;
+    color: black;
+}
+
+.mostaza li a:hover {
+    text-decoration: none;
+    color: rgb(243, 232, 201);
+    /* background-color: rgb(206, 106, 35);
+    border-radius: 50%; */
+}
+
+.imgCentral img {
+    /* box-shadow: 13px 13px rgba(0, 0, 0, 0.61); */
+    /* border: 2px solid rgb(151, 150, 149); */
+    border-radius: 30px;
+}
+
+h4 {
+    text-align: center;
+    color: #C5F7F3;
+    font-size: 25px;
+    font-family: helvetica;
+}
+
+h3 {
+    font-size: 30px;
+    color: #E8FFBF;
+}
+
+.imagen {
+    border-radius: 15px;
+    height="450" width="900"
+}

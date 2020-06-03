@@ -1,0 +1,76 @@
+html {
+    background: url("../imgs/RkJ7iVF.gif")no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    text-align: center;
+}
+
+h1 {
+    font-size: 85px;
+    text-align: center;
+}
+
+hr {
+    width: 90%;
+    height: 3px;
+    background-color: black;
+    border-radius: 50%;
+}
+
+.mostaza li {
+    list-style: none;
+    padding: 35px;
+    display: inline-block;
+    font-size: 30px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.mostaza li a {
+    text-decoration: none;
+    color: black;
+}
+
+.mostaza li a:hover {
+    text-decoration: none;
+    color: rgb(243, 232, 201);
+    /* background-color: rgb(206, 106, 35);
+    border-radius: 50%; */
+}
+
+div {
+    padding: 20px;
+    margin: 30px;
+    background-color: rgba(0, 0, 0, 0.50);
+}
+
+p {
+    font-size: 25px;
+    color: #FFBB7F;
+    font-family: 'Lora', serif;
+}
+
+h3 {
+    color: #F45F41;
+    font-size: 35px;
+    font-family: 'Lora', serif;
+}
+
+img {
+    border-radius: 10px;
+}
+
+footer {
+    background: #B9BF74;
+}
+
+h2 {
+    font-size: 85px;
+    font-family: 'Amatic SC', cursive;
+    font-family: 'Bebas Neue', cursive;
+    font-family: 'Lexend Tera', sans-serif;
+    font-family: 'Lora', serif;
+    font-family: 'Shadows Into Light', cursive;
+    color: white;
+}
